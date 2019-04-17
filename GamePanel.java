@@ -479,7 +479,7 @@ while(running) {
 		
 		//Credits
 		g.setFont(new Font("Century Gothic", Font.BOLD, 15));
-		g.drawString("Made By Saksham Puri", WIDTH-170, HEIGHT-10);
+		g.drawString("", WIDTH-170, HEIGHT-10);
 	
 		//Wave Number
 		if(waveStartTimer != 0){
