@@ -2,7 +2,7 @@
 
 DirRunJar created for runnable jar file with required java libraries
 
-##Game Powerups and Instructions:
+## Game Powerups and Instructions:
 
 - Move around with arrow keys
 
